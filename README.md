@@ -324,6 +324,7 @@ Before adopting a framework, evaluate:
 - [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) - Reference implementations and examples for MCP integrations.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - Official GitHub MCP server for connecting agents to repositories, issues, pull requests, and GitHub workflows.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - MCP server that exposes browser automation capabilities through Playwright.
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available MCP tools for authoring, running, and triaging natural-language web and mobile application tests with reusable execution memory.
 
 # Tool Use and MCP
 
