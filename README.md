@@ -154,6 +154,7 @@ These courses provide structured learning paths for Agentic AI, AI agent develop
 | [Agent Memory: Building Memory-Aware Agents](https://www.deeplearning.ai/courses/agent-memory-building-memory-aware-agents) | DeepLearning.AI + Oracle | Persistent memory architecture, memory managers, semantic tool retrieval, extraction, consolidation, and self-updating memory. |
 | [Event-Driven Agentic Document Workflows](https://www.deeplearning.ai/courses/event-driven-agentic-document-workflows) | DeepLearning.AI + LlamaIndex | Event-driven workflows, branching, concurrency, RAG, structured outputs, and human feedback. |
 | [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen) | DeepLearning.AI | Useful for learning reflection, tool use, planning, and multi-agent design patterns through AutoGen; treat it as framework-specific rather than the current Microsoft production path. |
+| [Agentic AI Course](https://www.mygreatlearning.com/iit-bombay-certificate-in-agentic-ai) | IIT Bombay, in collaboration with Great Learning | Five-month online certificate covering Agentic AI concepts and hands-on topics including RAG, MCP, LangGraph, CrewAI, multi-agent systems, evaluation, security, and deployment. |
 
 ## Agentic AI Projects and Hands-On Tutorials
 
