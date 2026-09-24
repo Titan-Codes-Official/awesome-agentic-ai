@@ -528,6 +528,7 @@ Agents that execute code, manipulate files, use shells, or control browsers shou
 - [E2B](https://github.com/e2b-dev/E2B) - Isolated cloud sandboxes designed for AI-generated code and agent workloads.
 - [Playwright](https://github.com/microsoft/playwright) - Browser automation framework useful for controlled web interaction and testing.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - MCP integration that exposes browser automation capabilities to agents.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first runtime for durable agent sessions, governed MCP tools, approvals, credentials, audit, replay, and selectable execution backends.
 
 Recommended controls include:
 
