@@ -526,6 +526,7 @@ Agents that execute code, manipulate files, use shells, or control browsers shou
 - [browser-use](https://github.com/browser-use/browser-use) - Open-source tooling for browser-based agent workflows.
 - [Docker](https://docs.docker.com/) - Container platform commonly used to isolate agent execution environments.
 - [E2B](https://github.com/e2b-dev/E2B) - Isolated cloud sandboxes designed for AI-generated code and agent workloads.
+- [Tale](https://tale.dev/) - Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 - [Playwright](https://github.com/microsoft/playwright) - Browser automation framework useful for controlled web interaction and testing.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - MCP integration that exposes browser automation capabilities to agents.
 
