@@ -496,6 +496,7 @@ Important controls include:
 
 - [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner for probing weaknesses and undesirable model behavior.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Framework for validating and controlling model inputs and outputs.
+- [HOL Guard](https://hol.org/guard) - Open-source local policy checks for supported AI coding-agent commands, file access, package installs, and MCP tool actions before execution.
 - [Microsoft Presidio](https://github.com/microsoft/presidio) - Open-source tools for detecting and anonymizing sensitive information.
 - [NeMo Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NVIDIA framework for programmable safety and control rails around generative AI applications.
 - [OWASP GenAI Security Project](https://genai.owasp.org/) - Community security guidance and risk resources for generative AI and agentic systems.
